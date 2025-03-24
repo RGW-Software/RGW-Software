@@ -5,15 +5,15 @@
 ## 📌 Sobre Nós
 A RGW - Software nasceu da paixão pela tecnologia e inovação, fundada por três desenvolvedores dedicados:
 
-- **Gabriel Candido Ferreira Dias**
-- **Rhennan Augusto Santana do Carmo**
-- **Wisley César Borges do Vale**
-
+- [Gabriel Candido Ferreira Dias](https://github.com/Gabriel-Candido-Ferreira)<br>
+- [Rhennan Augusto Santana do Carmo](https://github.com/RhennanAugusto)<br>
+- [Wisley César Borges do Vale](https://github.com/wisley-cesar)<br>
 
 Nosso objetivo é fornecer soluções personalizadas e eficientes para atender às necessidades de nossos clientes em diversos segmentos do mercado.
 
 ## 💡 O Que Fazemos
 Trabalhamos no desenvolvimento de software sob medida, oferecendo:
+
 ✅ **Websites e Portais Corporativos**  
 ✅ **E-commerce e Plataformas de Venda Online**  
 ✅ **Sistemas de Delivery**  
