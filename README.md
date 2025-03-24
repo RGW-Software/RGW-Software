@@ -14,6 +14,7 @@ Nosso objetivo é fornecer soluções personalizadas e eficientes para atender �
 
 ## 💡 O Que Fazemos
 Trabalhamos no desenvolvimento de software sob medida, oferecendo:
+
 ✅ **Websites e Portais Corporativos**  
 ✅ **E-commerce e Plataformas de Venda Online**  
 ✅ **Sistemas de Delivery**  
